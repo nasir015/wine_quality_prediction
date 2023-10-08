@@ -1,2 +1,0 @@
-[2023-10-04 16:46:34,063] 37 Nasir - INFO - error occured
-[2023-10-04 16:47:25,890] 37 Nasir - INFO - error occured
