@@ -1,0 +1,6 @@
+[2023-10-13 16:04:22,353] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-10-13 16:04:22,369] 37 Nasir - INFO - Data ingestion is started
+[2023-10-13 16:04:22,455] 37 Nasir - INFO - Data ingestion is completed
+[2023-10-13 16:04:22,496] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-10-13 16:04:22,532] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-10-13 16:04:22,543] 37 Nasir - INFO - Test data is saved in artifacts folder
